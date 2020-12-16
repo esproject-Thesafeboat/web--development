@@ -11,9 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# ES-PROJECT GROUP-12
+## THE SAFE BOAT.
 
 - Bulleted
 - List
@@ -27,11 +26,11 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-X-graph  | Y-graph | Z-graph
--------  | -------  | ------
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe> | <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe> | empty
+##X-graph
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe>  
+##Y-graph
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe> 
 
-### Jekyll Themes
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pavankumarreddy8328/web--development/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
