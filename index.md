@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+theme: minima
 
 You can use the [editor on GitHub](https://github.com/pavankumarreddy8328/web--development/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 # ES-PROJECT GROUP-12
