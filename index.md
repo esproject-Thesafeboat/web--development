@@ -30,6 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe>
 
 ### Jekyll Themes
+![Image].(https://thingspeak.com/channels/1257746/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pavankumarreddy8328/web--development/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
